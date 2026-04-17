@@ -20,3 +20,5 @@ The PCB was 4 layers 1 layer for GND , one layer for 5V
 
 <img width="542" height="448" alt="image" src="https://github.com/user-attachments/assets/aad97694-ecb3-4aa2-898e-28e39cfc492c" />
 
+#BOM : 
+<img width="861" height="698" alt="image" src="https://github.com/user-attachments/assets/455ca3ec-673e-4ecf-b5fa-98723d6b96d4" />
