@@ -1,5 +1,5 @@
 # HDMA_DUAL_SWITCHER
-This is 2 to 1 hdmi multiplexer that can switch screen visualisation between two pcs with a switch toggle 
+This is 2 to 1 hdmi multiplexer that can switch screen visualisation between two pcs with a switch toggle using the TMDS261BPAG
 
 # Schematic : 
 <img width="811" height="765" alt="image" src="https://github.com/user-attachments/assets/d9c3e8cb-3c54-4e35-b849-712dea7e4714" />
